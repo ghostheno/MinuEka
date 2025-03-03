@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      s-market_uudistus_1-1024x683_0: 5651959974621486628
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
